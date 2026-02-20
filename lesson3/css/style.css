@@ -1,0 +1,26 @@
+@import url("reset.css");
+*{
+    color: blue;
+}
+p{
+    color: black;
+}
+.list{
+    color: blueviolet;
+}
+#listik{
+    color: green;
+}
+.list,
+.main-info {
+	color: red;
+}
+.important-content>.main-info{
+    color: aqua;
+}
+#listik~.end{
+    color: red;
+}
+#listik+ul> li+li span{
+    color:white;
+}
