@@ -1,0 +1,25 @@
+@import url("reset.css");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,500,600,700&display=swap");
+
+body{
+font-family: Inter, sens-serif;
+font-size: 18px;
+}
+.title{
+color: #37393F;
+font-size: 30px;
+font-weight: 600;
+line-height: 1,27;
+}
+.sub-title{
+color: #6B77E5;
+font-size: 20px;
+font-weight: 600;
+line-height: 1,27;
+}
+.text{
+    color: #7D7D7D;
+    font-weight: 400;
+    line-height: 1,47;
+}

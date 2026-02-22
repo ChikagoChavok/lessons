@@ -1,0 +1,56 @@
+@import url("reset.css");
+@font-face {
+    font-family: Oswald;
+    src: url(../font/oswald-medium.woff2) format("woff2");
+    src: url(../font/oswald-medium.woff) format("woff");
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Oswald;
+    src: url(../font/Oswald-Regular.woff2) format("woff2");
+    src: url(../font/oswald-Regular.woff) format("woff");
+    font-display: swap;
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: Oswald;
+    src: url(../font/Oswald-SemiBold.woff) format("woff2");
+    src: url(../font/oswald-SemiBold.woff) format("woff");
+    font-display: swap;
+    font-weight: 600;
+    font-style: normal;
+}
+body{
+    font-family: Oswald;
+    
+}
+.head{
+    font-size: 45px;
+    font-weight: 600;
+    text-decoration: underline;
+    text-shadow: 3px 3px 3px red;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.start{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1.9;
+    word-spacing: 10px;
+    color: red;
+    text-shadow: 3px 3px 3px black, -3px 8px 4px black;
+}
+.main-info{
+     line-height: 1.6;
+}
+.sub{
+    font-size: 25px;
+    font-weight: 500;
+    text-indent: 10px;
+}
+mark{
+    color: crimson;
+}
