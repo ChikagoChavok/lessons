@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Inter:regular,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
 body{
     font-family: "Inter";
 }
@@ -46,4 +47,79 @@ margin-left: 20px;
 }
 .main-block{
     margin: 30px 210px;
+}
+
+
+
+.first-contain{
+width: 716px;
+}
+.text-block{
+
+}
+.second-title{
+font-family: "Poppins";
+color: #37393F;
+font-size: 30px;
+font-weight: 600;
+line-height: 1.27;
+}
+.second-text{
+color: #7D7D7D;
+font-size: 18px;
+font-weight: 400;
+line-height: 1.46;
+padding-bottom: 42px;
+}
+.blue-title{
+color: #6B77E5;
+font-family: "Poppins";
+font-size: 20px;
+font-weight: 600;
+line-height: 1.27;
+padding-bottom: 12px;
+}
+.second-contain{
+display: inline-block;
+overflow: hidden;
+
+}
+.third-title{
+color: #37393F;
+font-family: "Poppins";
+font-size: 25px;
+font-weight: 600;
+line-height: 1.27;
+margin-bottom: 15px;
+}
+.mans-img{
+width: 716px;
+margin-bottom: 24px;
+}
+.computers{
+    width: 349px;
+    height: 266px;
+    
+}
+.content{
+    display: inline-block;
+    margin-left: 29px;
+}
+.arial-title{
+color: #40DDB6;
+font-family: "Poppins";
+font-size: 20px;
+font-weight: 600;
+line-height: 1.27;
+margin-bottom: 24px;
+width: 332px;
+}
+.list li{
+color: #7D7D7D;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 35px;
+}
+.second-block{
+    margin: 60px 210px;
 }
